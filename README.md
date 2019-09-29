@@ -1,0 +1,2 @@
+# buildNuxtRoutes
+buildNuxtRoutesByPages
